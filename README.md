@@ -1,4 +1,4 @@
 # Flutter-Project
 
-Projekt na zaliczenie Aplikacje Mobline
+Simple food application project with Flutter technology
 
